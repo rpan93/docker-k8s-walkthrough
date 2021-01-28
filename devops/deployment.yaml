@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: *service-name
-        image: emailtovamos/dockerk8swalkthrough:v1
+        image: rpan/dockerk8swalkthrough:v1
         command: ["./binary"]
           
